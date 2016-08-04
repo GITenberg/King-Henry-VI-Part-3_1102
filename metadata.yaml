@@ -1,0 +1,32 @@
+_repo: King-Henry-VI-Part-3_1102
+_version: 0.0.1
+alternative_title: King Henry VI, Part 3
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: World Library
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1102'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Drama'
+- !lcsh 'Henry VI, King of England, 1421-1471 -- Drama'
+- !lcsh 'Great Britain -- Kings and rulers -- Drama'
+- !lcsh 'Historical drama'
+- GITenberg
+title: The Third Part of King Henry the Sixth
+url: http://www.gutenberg.org/ebooks/1102
